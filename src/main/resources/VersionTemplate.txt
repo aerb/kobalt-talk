@@ -1,0 +1,5 @@
+package com.example
+
+object Version {
+    val version: String = "@VERSION@"
+}
